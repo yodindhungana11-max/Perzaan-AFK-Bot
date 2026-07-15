@@ -8,7 +8,7 @@
   "server": {
     "ip": "SurvivalWorld067.aternos.me",
     "port": 30156,
-    "version": "1.21.1"
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
