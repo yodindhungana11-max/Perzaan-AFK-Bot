@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Afk_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "SurvivalWorld067.aternos.me",
     "port": 30156,
-    "version": "1.21.8"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
