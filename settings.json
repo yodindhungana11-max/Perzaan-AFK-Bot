@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Afk_Bot",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SurvivalWorld067.aternos.me",
-    "port": 30156,
+    "ip": "adk_crystal.aternos.me",
+    "port": 17671,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I'm a Afk Bot",
+        "Afkk!!!",
+        "I am Afkk Noob"
       ]
     },
     "chat-log": true,
